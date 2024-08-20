@@ -1,6 +1,5 @@
 /*
-    Exercise 1.3: Write a program to print Hello, World on the standard output.
-
+    pg. 9
     19/08/2024
 */
 

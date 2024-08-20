@@ -1,7 +1,6 @@
 
 /*
-    Exercise 1.7: Compile a program that has incorrectly nested comments.
-
+    pg. 11
     19/08/2024
 */
 
